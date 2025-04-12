@@ -3,5 +3,5 @@
 # psycopg2 - installed by base image
 # PyJWT==2.0.1 - installed by base image
 # sqlalchemy==1.4.22 - installed by base image
-pydantic==1.8.2
-requests==2.25.0
+pydantic==2.11.3
+requests==2.32.3
